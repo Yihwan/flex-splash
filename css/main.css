@@ -736,6 +736,7 @@ video, object {
 }
 
 .iconbox_icon {
+  padding-top: 2px;
 	float:left;
 	width:3.5rem;
 	font-size:2rem;
@@ -1445,4 +1446,16 @@ label {
 
 .team-member h5 {
   padding-top: 15px;
+}
+
+.coming-soon-container {
+  text-align: center;
+}
+.coming-soon {
+  padding-bottom: 30px;
+}
+
+.coming-soon-container img {
+  width: 100%;
+  height: auto;
 }
