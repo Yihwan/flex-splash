@@ -381,7 +381,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 h1 {
  	opacity: 0.64;
- 	font-weight: 300;
+ 	font-weight: 700;
  	letter-spacing: -0.2rem;
  	font-size: 4rem;
  	line-height: 4.28rem;
@@ -390,7 +390,7 @@ h1 {
 
 h2 {
 
-	font-weight: 300;
+	font-weight: 700;
 	letter-spacing: -0.13rem;
 	font-size: 3.21rem;
 	line-height: 3.44rem;
@@ -399,7 +399,7 @@ h2 {
 
 h3 {
 	opacity: 0.64;
-	font-weight: 400;
+	font-weight: 500;
 	letter-spacing: -0.10rem;
 	font-size: 2.42rem;
 	line-height: 2.86rem;
@@ -408,7 +408,7 @@ h3 {
 
 h4 {
 	opacity: 0.64;
-	font-weight: 400;
+	font-weight: 500;
 	font-size: 1.72rem;
 	line-height: 2.28rem;
 	margin: 1.72rem 0px 1.14rem 0px;
@@ -416,7 +416,7 @@ h4 {
 
 h5 {
 	opacity: 0.87;
-	font-weight: 400;
+	font-weight: 500;
 	letter-spacing: 0.02rem;
 	font-size: 1.42rem;
 	line-height: 2.14rem;
@@ -443,12 +443,12 @@ strong {
 small {
 	letter-spacing: 0.02rem;
 	font-weight: 500;
-	font-size: 0.857rem;
+	font-size: 1rem;
 	line-height: 1.72rem;
 }
 
 nav a {
-	font-size: 0.928rem;
-	line-height: 1.72rem;
+	font-size: 1.1rem;
+	line-height: 1rem;
 	letter-spacing: 0.03rem;
 }
